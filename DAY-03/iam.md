@@ -241,4 +241,4 @@ Using IAM properly helps organizations maintain **security, control, and complia
 
 ---
 
-If you want, I can also help you create **Day-04 README: GCP Global Infrastructure (Regions, Zones, and Data Centers)** with **nice diagrams and emojis**, which will make your **GitHub repository look very professional for DevOps portfolios. 🚀**
+
